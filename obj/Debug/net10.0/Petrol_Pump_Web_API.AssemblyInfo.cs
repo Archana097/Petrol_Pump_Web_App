@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petrol_Pump_Web_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+943bad4118cb1fb8b21929cb6bcf68c163a758aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petrol_Pump_Web_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petrol_Pump_Web_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
